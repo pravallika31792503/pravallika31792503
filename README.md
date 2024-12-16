@@ -47,10 +47,3 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>&nbsp;&nbsp;
 </div>
-<hr>
-<br>
-<div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pravallika&count_private=true&show_icons=true&theme=radical"  width="400px" alt="Pravallika">
-    &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravallika&layout=compact&theme=radical"  width="350px" alt="Pravallika">
-</div>
