@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/sql-%2300A3E0.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
 <br>
 <hr>
